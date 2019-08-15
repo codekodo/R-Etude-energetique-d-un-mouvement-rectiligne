@@ -1,6 +1,6 @@
 # Etude énergétique d'un mouvement rectiligne
 
-Ressources de l'académie d'Amien adaptée au format calepin:
+Ressources de l'académie d'Amien adaptées au format calepin:
 * Fiche enseignant
 * Sujet élève
 
