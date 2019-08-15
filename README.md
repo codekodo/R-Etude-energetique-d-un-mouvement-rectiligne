@@ -1,1 +1,7 @@
-# R-Academie-Amien-Python-1-Etude-energetique-d-un-mouvement-rectiligne
+# Etude énergétique d'un mouvement rectiligne
+
+Ressources de l'académie d'Amien adaptée au format calepin:
+* Fiche enseignant
+* Sujet élève
+
+Source : http://spc.ac-amiens.fr/715-python-1-etude-energetique-d-un-mouvement-rectiligne.html
